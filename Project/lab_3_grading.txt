@@ -1,0 +1,32 @@
+Naming
+ - Constants Uppercase
+   * Some of the declared variables should rather be constants
+ - Camel-casing
+   * Sometimes used snake case instead
+ - Speaking names
+ - Short names
+ 
+ Styling
+  - Use of appropriate loops
+  - Code reuse
+  - Concise methods
+    * Don't write everything in a single long method, use several smaller methods
+      or even multiple classes.
+  - Scope reduction
+  
+ Organization
+  - Order of program parts
+  - Correct and consistent indentation
+  	* Inconsistent and wrong indentation throughout big parts of the program
+  - Comments where required
+  - Proper Access Modifiers
+  - Exceptions for error handling
+  
+ Additional Recommendations
+  - Braces for all blocks
+  - Javadoc compatible comments
+  
+ Correctness
+ 	* Multiple Code logic flaws
+ 	
+ Bonus Points: 2
